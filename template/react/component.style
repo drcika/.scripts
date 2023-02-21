@@ -1,0 +1,6 @@
+import './${name}.scss';
+import { ${interface} } from './${name}.model';
+
+export function ${name_capital}(props: ${interface}) {
+
+}
